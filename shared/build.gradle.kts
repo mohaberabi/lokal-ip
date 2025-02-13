@@ -60,7 +60,7 @@ mavenPublishing {
     coordinates(
         groupId = "io.github.mohaberabi",
         artifactId = "lokal-ip",
-        version = "0.0.1"
+        version = "0.0.2"
     )
 
     pom {
