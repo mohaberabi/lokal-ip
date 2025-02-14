@@ -15,7 +15,7 @@ Add the following dependency to your **Kotlin Multiplatform** project:
 
 ```kotlin
 commonMain.dependencies {
-    implementation("io.mohaberabi:lokal-ip:0.0.2")
+    implementation("io.github.mohaberabi:lokal-ip:0.0.2")
 }
 ```
 
